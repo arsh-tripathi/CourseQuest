@@ -15,7 +15,7 @@ CourseQuest is a tool which helps students plan out their courses throughout eve
 ## Installation Instructions
 
 * First, ensure that your device follows the above specifications
-* Download most recent installer from [releases folder](https://git.uwaterloo.ca/a2tripat/team-102-20/-/tree/main/releases?ref_type=heads)
+* Download most recent installer from [installer](https://github.com/arsh-tripathi/CourseQuest/blob/master/CourseQuest-1.4.0.msi)
 * Launch downloaded installer file
 * Proceed as installer instruction state
 * Upon completion, navigate to the folder where you had specified to install your progam (By default this is C:\\Program Files)
